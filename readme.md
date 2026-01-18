@@ -40,9 +40,11 @@ Ingresar base y altura. Calcular el área del rectángulo y del triángulo.
 
 Solución: [Ejercicio5.java](src/Ejercicio5.java)
 
-## EJERCICIO 6 – Conversión de temperatura
+## ✅ EJERCICIO 6 – Conversión de temperatura
 
 Ingresar temperatura en Celsius y convertirla a Fahrenheit.
+
+Solución: [Ejercicio6.java](src/Ejercicio6.java)
 
 ## EJERCICIO 7 – Verificación de edad - Utilizar métodos
 
