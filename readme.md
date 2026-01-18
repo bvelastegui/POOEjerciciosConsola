@@ -46,9 +46,11 @@ Ingresar temperatura en Celsius y convertirla a Fahrenheit.
 
 Solución: [Ejercicio6.java](src/Ejercicio6.java)
 
-## EJERCICIO 7 – Verificación de edad - Utilizar métodos
+## ✅ EJERCICIO 7 – Verificación de edad - Utilizar métodos
 
 Ingresar la edad de una persona y determinar si es mayor o menor de edad.
+
+Solución: [Ejercicio7.java](src/Ejercicio7.java)
 
 ## EJERCICIO 8 – Suma - Utilizar métodos
 
