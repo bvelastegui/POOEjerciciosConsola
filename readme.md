@@ -22,9 +22,11 @@ Ingresar dos números enteros y mostrar la suma, resta y multiplicación.
 
 Solución: [Ejercicio2.java](src/Ejercicio2.java)
 
-## EJERCICIO 3 – Promedio académico
+## ✅ EJERCICIO 3 – Promedio académico
 
 Ingresar tres notas por teclado, calcular y mostrar el promedio final.
+
+Solución: [Ejercicio3.java](src/Ejercicio3.java)
 
 ## EJERCICIO 4 – Cálculo de salario . Utilizar métodos
 
