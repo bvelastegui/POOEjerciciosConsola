@@ -16,9 +16,11 @@ ingresados de forma ordenada.
 
 Solución: [Ejercicio1.java](src/Ejercicio1.java)
 
-## EJERCICIO 2 – Operaciones aritméticas básicas
+## ✅ EJERCICIO 2 – Operaciones aritméticas básicas
 
 Ingresar dos números enteros y mostrar la suma, resta y multiplicación.
+
+Solución: [Ejercicio2.java](src/Ejercicio2.java)
 
 ## EJERCICIO 3 – Promedio académico
 
