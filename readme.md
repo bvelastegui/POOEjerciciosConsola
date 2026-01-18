@@ -34,9 +34,11 @@ Ingresar horas trabajadas y valor por hora. Calcular y mostrar el salario total.
 
 Solución: [Ejercicio4.java](src/Ejercicio4.java)
 
-## EJERCICIO 5 – Área de figuras
+## ✅ EJERCICIO 5 – Área de figuras
 
 Ingresar base y altura. Calcular el área del rectángulo y del triángulo.
+
+Solución: [Ejercicio5.java](src/Ejercicio5.java)
 
 ## EJERCICIO 6 – Conversión de temperatura
 
