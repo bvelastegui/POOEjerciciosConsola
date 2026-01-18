@@ -9,10 +9,12 @@
 5. Mostrar resultados con System.out.println.
 6. Ejecutar el programa desde la consola.
 
-## EJERCICIO 1 – Registro básico de persona
+## ✅ EJERCICIO 1 – Registro básico de persona
 
 Desarrollar un programa que permita ingresar nombre, edad y ciudad. Mostrar los datos
 ingresados de forma ordenada.
+
+Solución: [Ejercicio1.java](src/Ejercicio1.java)
 
 ## EJERCICIO 2 – Operaciones aritméticas básicas
 
