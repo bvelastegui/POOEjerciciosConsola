@@ -28,9 +28,11 @@ Ingresar tres notas por teclado, calcular y mostrar el promedio final.
 
 Solución: [Ejercicio3.java](src/Ejercicio3.java)
 
-## EJERCICIO 4 – Cálculo de salario . Utilizar métodos
+## ✅ EJERCICIO 4 – Cálculo de salario . Utilizar métodos
 
 Ingresar horas trabajadas y valor por hora. Calcular y mostrar el salario total.
+
+Solución: [Ejercicio4.java](src/Ejercicio4.java)
 
 ## EJERCICIO 5 – Área de figuras
 
