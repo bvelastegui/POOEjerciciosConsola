@@ -64,6 +64,8 @@ Ingresar producto, precio unitario y cantidad. Calcular el total a pagar.
 
 Solución: [Ejercicio9.java](src/Ejercicio9.java)
 
-## EJERCICIO 10 – Conteo de caracteres
+## ✅ EJERCICIO 10 – Conteo de caracteres
 
 Ingresar 3 textos y mostrar en consola todo concatenado
+
+Solución: [Ejercicio10.java](src/Ejercicio10.java)
