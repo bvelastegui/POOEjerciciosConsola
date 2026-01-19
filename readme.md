@@ -58,9 +58,11 @@ Ingresar dos números y calcular la suma utilizando un método.
 
 Solución: [Ejercicio8.java](src/Ejercicio8.java)
 
-## EJERCICIO 9 – Total de compra- Utilizar métodos
+## ✅ EJERCICIO 9 – Total de compra- Utilizar métodos
 
 Ingresar producto, precio unitario y cantidad. Calcular el total a pagar.
+
+Solución: [Ejercicio9.java](src/Ejercicio9.java)
 
 ## EJERCICIO 10 – Conteo de caracteres
 
