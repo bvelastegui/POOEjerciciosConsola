@@ -52,9 +52,11 @@ Ingresar la edad de una persona y determinar si es mayor o menor de edad.
 
 Solución: [Ejercicio7.java](src/Ejercicio7.java)
 
-## EJERCICIO 8 – Suma - Utilizar métodos
+## ✅ EJERCICIO 8 – Suma - Utilizar métodos
 
 Ingresar dos números y calcular la suma utilizando un método.
+
+Solución: [Ejercicio8.java](src/Ejercicio8.java)
 
 ## EJERCICIO 9 – Total de compra- Utilizar métodos
 
